@@ -1,0 +1,7 @@
+streamlit==1.12.0
+torch
+transformers
+diffusers
+Pillow
+altair==4.2.0
+accelerate
